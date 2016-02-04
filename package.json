@@ -22,9 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "lodash.throttle": "^3.0.4",
-    "react": "^0.14.0",
-    "react-addons-pure-render-mixin": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "react-addons-pure-render-mixin": "^0.14.0"
   },
   "devDependencies": {
     "babel-core": "^5.8.25",
